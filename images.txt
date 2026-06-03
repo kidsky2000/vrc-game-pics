@@ -7,3 +7,5 @@ http://paid1.daki.cc:4183/processed_images/processed_images/pic_5.jpg
 http://paid1.daki.cc:4183/processed_images/processed_images/pic_6.jpg
 http://paid1.daki.cc:4183/processed_images/processed_images/pic_7.jpg
 http://paid1.daki.cc:4183/processed_images/processed_images/pic_8.jpg
+http://paid1.daki.cc:4183/processed_images/processed_images/pic_9.jpg
+http://paid1.daki.cc:4183/processed_images/processed_images/pic_10.jpg
