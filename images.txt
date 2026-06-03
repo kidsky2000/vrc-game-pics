@@ -10,3 +10,8 @@ http://paid1.daki.cc:4183/processed_images/processed_images/pic_8.jpg
 http://paid1.daki.cc:4183/processed_images/processed_images/pic_9.jpg
 http://paid1.daki.cc:4183/processed_images/processed_images/pic_10.jpg
 http://paid1.daki.cc:4183/processed_images/processed_images/pic_11.jpg
+http://paid1.daki.cc:4183/processed_images/processed_images/pic_12.jpg
+http://paid1.daki.cc:4183/processed_images/processed_images/pic_13.jpg
+http://paid1.daki.cc:4183/processed_images/processed_images/pic_14.jpg
+http://paid1.daki.cc:4183/processed_images/processed_images/pic_15.jpg
+http://paid1.daki.cc:4183/processed_images/processed_images/pic_16.jpg
