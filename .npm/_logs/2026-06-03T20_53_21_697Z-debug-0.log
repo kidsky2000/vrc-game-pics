@@ -1,0 +1,147 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@11.16.0
+2 info using node@v24.16.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/container/.npmrc
+5 silly config load:file:/usr/local/etc/npmrc
+6 verbose title npm install
+7 verbose argv "install"
+8 verbose logfile logs-max:10 dir:/home/container/.npm/_logs/2026-06-03T20_53_21_697Z-
+9 verbose logfile /home/container/.npm/_logs/2026-06-03T20_53_21_697Z-debug-0.log
+10 silly logfile done cleaning log files
+11 silly packumentCache heap:997720064 maxSize:249430016 maxEntrySize:124715008
+12 silly idealTree buildDeps
+13 silly reify moves {}
+14 silly audit bulk request {
+14 silly audit   '@discordjs/builders': [ '1.14.1' ],
+14 silly audit   '@discordjs/collection': [ '1.5.3', '2.1.1' ],
+14 silly audit   '@discordjs/formatters': [ '0.6.2' ],
+14 silly audit   '@discordjs/rest': [ '2.6.1' ],
+14 silly audit   '@sapphire/snowflake': [ '3.5.5', '3.5.3' ],
+14 silly audit   '@discordjs/util': [ '1.2.0' ],
+14 silly audit   '@discordjs/ws': [ '1.2.3' ],
+14 silly audit   '@emnapi/runtime': [ '1.10.0' ],
+14 silly audit   '@img/sharp-darwin-arm64': [ '0.33.5' ],
+14 silly audit   '@img/sharp-darwin-x64': [ '0.33.5' ],
+14 silly audit   '@img/sharp-libvips-darwin-arm64': [ '1.0.4' ],
+14 silly audit   '@img/sharp-libvips-darwin-x64': [ '1.0.4' ],
+14 silly audit   '@img/sharp-libvips-linux-arm': [ '1.0.5' ],
+14 silly audit   '@img/sharp-libvips-linux-arm64': [ '1.0.4' ],
+14 silly audit   '@img/sharp-libvips-linux-s390x': [ '1.0.4' ],
+14 silly audit   '@img/sharp-libvips-linux-x64': [ '1.0.4' ],
+14 silly audit   '@img/sharp-libvips-linuxmusl-arm64': [ '1.0.4' ],
+14 silly audit   '@img/sharp-libvips-linuxmusl-x64': [ '1.0.4' ],
+14 silly audit   '@img/sharp-linux-arm': [ '0.33.5' ],
+14 silly audit   '@img/sharp-linux-arm64': [ '0.33.5' ],
+14 silly audit   '@img/sharp-linux-s390x': [ '0.33.5' ],
+14 silly audit   '@img/sharp-linux-x64': [ '0.33.5' ],
+14 silly audit   '@img/sharp-linuxmusl-arm64': [ '0.33.5' ],
+14 silly audit   '@img/sharp-linuxmusl-x64': [ '0.33.5' ],
+14 silly audit   '@img/sharp-wasm32': [ '0.33.5' ],
+14 silly audit   '@img/sharp-win32-ia32': [ '0.33.5' ],
+14 silly audit   '@img/sharp-win32-x64': [ '0.33.5' ],
+14 silly audit   '@sapphire/async-queue': [ '1.5.5' ],
+14 silly audit   '@sapphire/shapeshift': [ '4.0.0' ],
+14 silly audit   '@types/node': [ '25.9.1' ],
+14 silly audit   '@types/ws': [ '8.18.1' ],
+14 silly audit   '@vladfrangu/async_event_emitter': [ '2.4.7' ],
+14 silly audit   accepts: [ '1.3.8' ],
+14 silly audit   'array-flatten': [ '1.1.1' ],
+14 silly audit   'body-parser': [ '1.20.5' ],
+14 silly audit   bytes: [ '3.1.2' ],
+14 silly audit   'call-bind-apply-helpers': [ '1.0.2' ],
+14 silly audit   'call-bound': [ '1.0.4' ],
+14 silly audit   color: [ '4.2.3' ],
+14 silly audit   'color-convert': [ '2.0.1' ],
+14 silly audit   'color-name': [ '1.1.4' ],
+14 silly audit   'color-string': [ '1.9.1' ],
+14 silly audit   'content-disposition': [ '0.5.4' ],
+14 silly audit   'content-type': [ '1.0.5' ],
+14 silly audit   cookie: [ '0.7.2' ],
+14 silly audit   'cookie-signature': [ '1.0.7' ],
+14 silly audit   debug: [ '2.6.9' ],
+14 silly audit   depd: [ '2.0.0' ],
+14 silly audit   destroy: [ '1.2.0' ],
+14 silly audit   'detect-libc': [ '2.1.2' ],
+14 silly audit   'discord-api-types': [ '0.38.48' ],
+14 silly audit   'discord.js': [ '14.26.4' ],
+14 silly audit   'dunder-proto': [ '1.0.1' ],
+14 silly audit   'ee-first': [ '1.1.1' ],
+14 silly audit   encodeurl: [ '2.0.0' ],
+14 silly audit   'es-define-property': [ '1.0.1' ],
+14 silly audit   'es-errors': [ '1.3.0' ],
+14 silly audit   'es-object-atoms': [ '1.1.2' ],
+14 silly audit   'escape-html': [ '1.0.3' ],
+14 silly audit   etag: [ '1.8.1' ],
+14 silly audit   express: [ '4.22.2' ],
+14 silly audit   'fast-deep-equal': [ '3.1.3' ],
+14 silly audit   finalhandler: [ '1.3.2' ],
+14 silly audit   forwarded: [ '0.2.0' ],
+14 silly audit   fresh: [ '0.5.2' ],
+14 silly audit   'function-bind': [ '1.1.2' ],
+14 silly audit   'get-intrinsic': [ '1.3.0' ],
+14 silly audit   'get-proto': [ '1.0.1' ],
+14 silly audit   gopd: [ '1.2.0' ],
+14 silly audit   'has-symbols': [ '1.1.0' ],
+14 silly audit   hasown: [ '2.0.4' ],
+14 silly audit   'http-errors': [ '2.0.1' ],
+14 silly audit   'iconv-lite': [ '0.4.24' ],
+14 silly audit   inherits: [ '2.0.4' ],
+14 silly audit   'ipaddr.js': [ '1.9.1' ],
+14 silly audit   'is-arrayish': [ '0.3.4' ],
+14 silly audit   lodash: [ '4.18.1' ],
+14 silly audit   'lodash.snakecase': [ '4.1.1' ],
+14 silly audit   'magic-bytes.js': [ '1.13.0' ],
+14 silly audit   'math-intrinsics': [ '1.1.0' ],
+14 silly audit   'media-typer': [ '0.3.0' ],
+14 silly audit   'merge-descriptors': [ '1.0.3' ],
+14 silly audit   methods: [ '1.1.2' ],
+14 silly audit   mime: [ '1.6.0' ],
+14 silly audit   'mime-db': [ '1.52.0' ],
+14 silly audit   'mime-types': [ '2.1.35' ],
+14 silly audit   ms: [ '2.0.0', '2.1.3' ],
+14 silly audit   negotiator: [ '0.6.3' ],
+14 silly audit   'object-inspect': [ '1.13.4' ],
+14 silly audit   'on-finished': [ '2.4.1' ],
+14 silly audit   parseurl: [ '1.3.3' ],
+14 silly audit   'path-to-regexp': [ '0.1.13' ],
+14 silly audit   'proxy-addr': [ '2.0.7' ],
+14 silly audit   qs: [ '6.15.2' ],
+14 silly audit   'range-parser': [ '1.2.1' ],
+14 silly audit   'raw-body': [ '2.5.3' ],
+14 silly audit   'safe-buffer': [ '5.2.1' ],
+14 silly audit   'safer-buffer': [ '2.1.2' ],
+14 silly audit   semver: [ '7.8.1' ],
+14 silly audit   send: [ '0.19.2' ],
+14 silly audit   'serve-static': [ '1.16.3' ],
+14 silly audit   setprototypeof: [ '1.2.0' ],
+14 silly audit   sharp: [ '0.33.5' ],
+14 silly audit   'side-channel': [ '1.1.0' ],
+14 silly audit   'side-channel-list': [ '1.0.1' ],
+14 silly audit   'side-channel-map': [ '1.0.1' ],
+14 silly audit   'side-channel-weakmap': [ '1.0.2' ],
+14 silly audit   'simple-swizzle': [ '0.2.4' ],
+14 silly audit   statuses: [ '2.0.2' ],
+14 silly audit   toidentifier: [ '1.0.1' ],
+14 silly audit   'ts-mixer': [ '6.0.4' ],
+14 silly audit   tslib: [ '2.8.1' ],
+14 silly audit   'type-is': [ '1.6.18' ],
+14 silly audit   undici: [ '6.24.1' ],
+14 silly audit   'undici-types': [ '7.24.6' ],
+14 silly audit   unpipe: [ '1.0.0' ],
+14 silly audit   'utils-merge': [ '1.0.1' ],
+14 silly audit   vary: [ '1.1.2' ],
+14 silly audit   ws: [ '8.21.0' ]
+14 silly audit }
+15 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 395ms
+16 silly audit report {}
+17 warn allow-scripts 1 package has install scripts not yet covered by allowScripts:
+17 warn allow-scripts   sharp@0.33.5 (install: (install scripts present))
+17 warn allow-scripts
+17 warn allow-scripts Run `npm approve-scripts --allow-scripts-pending` to review, or `npm approve-scripts <pkg>` to allow.
+18 verbose cwd /home/container
+19 verbose os Linux 7.0.2-2-pve
+20 verbose node v24.16.0
+21 verbose npm  v11.16.0
+22 verbose exit 0
+23 info ok
