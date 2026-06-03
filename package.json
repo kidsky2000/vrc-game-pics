@@ -1,0 +1,11 @@
+{
+  "name": "vrc-image-downloader-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sharp": "^0.33.2",
+    "express": "^4.21.2"
+    
+  }
+}
